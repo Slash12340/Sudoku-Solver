@@ -19,8 +19,9 @@
     <select>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:Soduku-Board" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/GameRules" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
@@ -43,7 +44,6 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="PATH_TO_GIT" value="C:\Program Files\Git\bin\git.exe" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ebXjgAFCKci0oVHRWNV4WgXvHl" />
@@ -130,7 +130,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="Soduku-Board" />
+                        <option value="origin/GameRules" />
                       </list>
                     </value>
                   </entry>
@@ -204,9 +204,10 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="638" y="246" width="1338" height="397" key="GridCell.Tab.2.right/0.0.2560.1040@0.0.2560.1040" timestamp="1594592584670" />
-    <state x="633" y="189" key="SettingsEditor" timestamp="1594591986986">
-      <screen x="0" y="0" width="2560" height="1040" />
+    <state x="356" y="164" key="SettingsEditor" timestamp="1594653905855">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="356" y="164" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1594653905855" />
     <state x="633" y="189" key="SettingsEditor/0.0.2560.1040@0.0.2560.1040" timestamp="1594591986986" />
     <state x="759" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1594591801951">
       <screen x="0" y="0" width="2560" height="1040" />
